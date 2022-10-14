@@ -1,0 +1,74 @@
+@media (max-width: 1199px){
+    .header1{
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        flex-wrap: wrap;
+    }
+    .navbar-brand img{
+        margin-left: 10px;
+        height: 8vh;
+    }
+}
+@media (max-width: 1170px){
+    .navbar-brand img {
+        height: 6vh;
+    }
+    .user1 h1 {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .user1 h1 img {
+        border-radius: 36px;
+        margin-top: -1px;
+        height: 4vh;
+    }
+}
+@media (max-width: 576px){
+    .Welcome h2 {
+        font-size: 23px;
+        text-transform: uppercase;
+        margin-bottom: 25px;
+        color: #fff;
+        width: 150px;
+    }
+    .list-father {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 33px;
+    }
+    .ch-list img {
+        border-radius: 20px;
+        height: 21vh;
+    }
+    .ch-list {
+        width: 196px;
+        margin: 5px;
+        text-align: center;
+    }
+    .gaming-list h1 {
+        font-size: 19px;
+        padding: 29px;
+    }
+    .gaming-list button {
+        margin-left: 16%;
+    }
+    .text-li-fa{
+        margin-left: 3px;
+    margin-top: -5px;
+    width: 207px;
+    display: block;
+    }
+    .ch1 img{
+        margin-top: -90px;
+    }
+    .ch-li2 ,.dat, .ho, .cur {
+        padding: 0px;
+    }
+    .li-father{
+        height: 47vh;
+    }
+    .gaming-list{
+        padding: 11px;
+    }
+}
